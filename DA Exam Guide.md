@@ -1,4 +1,4 @@
-2hrs - 50 questions
+[Exam](https://cloud.google.com/certification/cloud-architect) 2 hrs - 50 questions
 
 ### Tips
 - Very application focused. Know how pieces fit together and tradeoffs of each
