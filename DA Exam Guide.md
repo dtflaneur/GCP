@@ -1,4 +1,6 @@
-[Exam](https://cloud.google.com/certification/cloud-architect) 2 hrs - 50 questions
+[Exam Page](https://cloud.google.com/certification/cloud-architect) 2 hrs - 50 questions
+[Coursera Exam prep](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam/home/welcome)
+[Coursera Training](https://www.coursera.org/specializations/gcp-architecture?utm_source=googlecloud&utm_medium=institutions&utm_campaign=GoogleCloud_PCA_Architecting)
 
 ### Tips
 - Very application focused. Know how pieces fit together and tradeoffs of each
