@@ -2,6 +2,7 @@
 - [Practice Exam](https://cloud.google.com/certification/practice-exam/cloud-architect)
 - [Coursera Exam prep](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam/home/welcome)
 - [Coursera Training](https://www.coursera.org/specializations/gcp-architecture?utm_source=googlecloud&utm_medium=institutions&utm_campaign=GoogleCloud_PCA_Architecting)
+- [Whizlabs](https://www.whizlabs.com/google-cloud-certified-professional-cloud-architect/)
 
 ### Tips
 - Very application focused. Know how pieces fit together and tradeoffs of each
