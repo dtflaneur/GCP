@@ -1,9 +1,9 @@
 2hrs - 50 questions
 
-#Tips
-Very application focused. Know how pieces fit together and tradeoffs of each
-Dive more into shell commands and parameters
-Know the ins and outs of GCS. What’s capable and what are the various buckets stats.
+### Tips
+- Very application focused. Know how pieces fit together and tradeoffs of each
+- Dive more into shell commands and parameters
+- Know the ins and outs of GCS. What’s capable and what are the various buckets stats.
 Dive deeper into logging and monitoring. Lots of questions on how to store logs.
 Questions around org setup. Different projects -vs- folders -vs- networks
 Service accounts - dive into those a bit more
