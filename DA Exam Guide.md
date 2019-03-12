@@ -1,17 +1,18 @@
-[Exam Page](https://cloud.google.com/certification/cloud-architect) 2 hrs - 50 questions
-[Coursera Exam prep](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam/home/welcome)
-[Coursera Training](https://www.coursera.org/specializations/gcp-architecture?utm_source=googlecloud&utm_medium=institutions&utm_campaign=GoogleCloud_PCA_Architecting)
+- [Exam Page](https://cloud.google.com/certification/cloud-architect) 2 hrs - 50 questions
+- [Practice Exam](https://cloud.google.com/certification/practice-exam/cloud-architect)
+- [Coursera Exam prep](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam/home/welcome)
+- [Coursera Training](https://www.coursera.org/specializations/gcp-architecture?utm_source=googlecloud&utm_medium=institutions&utm_campaign=GoogleCloud_PCA_Architecting)
 
 ### Tips
 - Very application focused. Know how pieces fit together and tradeoffs of each
 - Dive more into shell commands and parameters
 - Know the ins and outs of GCS. What’s capable and what are the various buckets stats.
-Dive deeper into logging and monitoring. Lots of questions on how to store logs.
-Questions around org setup. Different projects -vs- folders -vs- networks
-Service accounts - dive into those a bit more
-How to write Object Lifecycle
-XML
-JSON
+- Dive deeper into logging and monitoring. Lots of questions on how to store logs.
+- Questions around org setup. Different projects -vs- folders -vs- networks
+- Service accounts - dive into those a bit more
+- How to write Object Lifecycle
+- XML
+;JSON
 Need to know difference (-l vs -lr)
 Logging, logging, logging. More detail on stackdriver
 VPN -vs- Interconnect -vs- other security network options
