@@ -1,6 +1,6 @@
 2hrs - 50 questions
 
-### Tips
+#Tips
 Very application focused. Know how pieces fit together and tradeoffs of each
 Dive more into shell commands and parameters
 Know the ins and outs of GCS. What’s capable and what are the various buckets stats.
