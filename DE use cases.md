@@ -2,6 +2,7 @@
 
 ## Main themes
 
+
 - Transition existing infrastructure to the Cloud
 - Reproduce existing workload -> First step into cloud transition
 
@@ -33,12 +34,12 @@
 
 ![flowlogistic](http://www.mickael-roger.com/tmp/flowlogistic1.png)
 
-### Analytics system
+### Analytics systems
 
 ![flowlogistic](http://www.mickael-roger.com/tmp/flowlogistic2.png)
 
 
-# MJTelco
+# MJTelcos
 
 ## Main themes
 
