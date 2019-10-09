@@ -13,8 +13,10 @@
 - Service accounts - dive into those a bit more
 - How to write Object Lifecycle
 - XML
+
 ;JSON
 Need to know difference (-l vs -lr)
+
 Logging, logging, logging. More detail on stackdriver
 VPN -vs- Interconnect -vs- other security network options
 Parameters that go into instance groups.
